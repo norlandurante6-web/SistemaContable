@@ -1,0 +1,22 @@
+Código;Nombre de Cuenta;Tipo de Cuenta;Naturaleza
+1101-3;Caja;Activo;Deudora
+1102-1; Banco;Activo;Deudora
+1103-1;Clientes;Activo;Deudora
+1104-2;Renta pagada por anticipado;Activo;Deudora
+1201-1;Mobiliario y equipo de oficina;Activo;Deudora
+1202-1;Equipo de transporte;Activo;Deudora
+2101-4;Proveedores;Pasivo;Acreedora
+2102-5;Acreedores diversos;Pasivo;Acreedora
+2103-8;Anticipo de clientes;Pasivo;Acreedora
+2104-9;Impuestos por pagar;Pasivo;Acreedora
+2201-1;Documentos por pagar a largo plazo;Pasivo;Acreedora
+3101-3;Capital social;Patrimonio;Acreedora
+3201-1;Utilidades retenidas;Patrimonio;Acreedora
+3301-1;Reserva legal;Patrimonio;Acreedora
+4101-1;Ingresos por servicios;Ingreso;Acreedora
+4102-2;Ingresos por ventas;Ingreso;Acreedora
+5101-1;Costo de servicios;Gasto;Deudora
+5201-1;Gasto por sueldos y salarios;Gasto;Deudora
+5202-4;Gasto por renta;Gasto;Deudora
+5202-7;Gasto por servicios públicos;Gasto;Deudora
+;;;

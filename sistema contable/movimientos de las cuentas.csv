@@ -1,0 +1,38 @@
+;;;;
+Fecha;Cuenta;Debe(C$);Haber(C$);Concepto
+2026-10-1;1102-1-Banco;300.000;0;Registro del aporte inicial en efectivo realizado por los socios como capital social fundacional.
+2026-10-1;3101-3 - Capital Social;0;300.000;"Contrapartida del aporte inicial de los socios, reconociendo el capital social suscrito y pagado"
+2026-10-2;1104-2-Renta pagada por anticipado;30.000;0;Pago anticipado del arriendo del local comercial correspondiente a los proximos meses.
+2026-10-2;1102-1-Banco;0;30.000;Salida de efectivo del banco para cubrir el pago del arriendo por adelantado
+2026-10-3;1201-1-Mobiliario y equipo de oficina;40.000;0;Adquisicion de equipo de computo para uso administrativo de la empresa
+2026-10-3;1102-1-Banco;0;20.000;Pago parcial en efectivo por la compra del equipo de computo
+2026-10-3;2102-5-Acreedores diversos;0;20.000;"Saldo pendiente de pago por la compra del equipo de computo, a credito"
+2026-10-5;1202-1-Equipo de transporte;100.000;0;Adquisicion de un vehiculo comercial para las operaciones de la empresa
+2026-10-5;1102-1-Banco;0;20.000;Pago inicial (cuota inicial) por la compra del vehiculo comercial
+2026-10-5;2201-1-Documentos por pagar a largo plazo;0;80.000;Financiamiento del saldo del vehiculo mediante documento por pagar a largo plazo.
+2026-10-8;1101-3-Caja;35.000;0;Cobro en efectivo por la prestacion de un servicio de software al contado.
+2026-10-8;4101-1-Ingresos por servicios;0;35.000;Reconocimiento del ingreso por el servicio de software prestado y cobrado en efectivo.
+2026-10-10;5101-1-Costo de sevicios;15.000;0;Registro del costo de insumos y licencias necesarios para prestar los servicios
+2026-10-10;2101-4-Proveedores;0;15.000;"Compra de insumos y licencias a credito, pendiente de pago a proveedores."
+2026-10-12;1103-1-Clientes;45.000;0;"Venta de servidores a credito, generando una cuenta por cobrar al cliente."
+2026-10-12;4102-2-Ingresos por ventas;0;45.000;Reconocimiento del ingreso por la venta de servidores a credito.
+2026-10-14;1102-1-Banco;25.000;0;Deposito en la cuenta bancaria del efectivo disponible en caja
+2026-10-14;1101-3-Caja;0;25.000;Salida de efectivo de caja por su deposito en el banco.
+2026-10-15;1102-1-Banco;20.000;0;Recibo de anticipo en efectivo de un cliente para un proyecto futuro
+2026-10-15;2103-8-Anticipo de clientes;0;20.000;"Reconocimiento del pasivo por el anticipo recibido, a aplicar en un proyecto futuro"
+2026-10-16;5201-1-Gasto por sueldos y salarios;18.000;0;Pago de la quincena a los empleados de la empresa
+2026-10-16;1102-1-Banco;0;18.000;Salida de efectivo del banco para el pago de salarios de la quincena
+2026-10-20;1102-1-Banco;25.000;0;"Cobro parcial de la venta a credito de servidores, recibido en el banco"
+2026-10-20;1103-1-Clientes;0;25.000;Disminución de la cuenta por cobrar del cliente por el abono recibido
+2026-10-22;2101-4-Proveedores;10.000;0;Pago parcial (abono) a la cuenta pendiente con proveedores.
+2026-10-22;1102-1-Banco;0;10.000;Salida de efectivo del banco para el abono a proveedores.
+2026-10-25;5203-1-Gastos por servicios públicos;4.000;0;Pago del consumo de luz e internet del periodo
+2026-10-25;1102-1-Banco;0;4.000;Salida de efectivo del banco para el pago de servicios publicos.
+2026-10-28;5201-4-Gasto por renta;6.000;0;Reconocimiento de la parte de la renta anticipada consumida en el mes.
+2026-10-28;1104-2-Renta pagada por anticipado;0;6.000;Traslado de la renta anticipada a gasto por la porcion devengada del mes
+2026-10-31;5201-1-Gasto por sueldos y salarios;5.000;0;Provision del impuesto sobre la renta correspondiente al periodo.
+2026-10-31;2104-9-Impuestos por pagar;0;5.000;Reconocimiento del pasivo por el impuesto a pagar del periodo.
+;;;;
+;;;;
+;;;;
+;;;;
