@@ -975,5 +975,6 @@ string pedir_codigo_texto()
         Console.WriteLine("El código no puede estar vacío. Intente de nuevo.");
     }
     
-    //soy el Angel XD
+    //soy el Angel XD 
+    // VEn MIS COMENTARIOS ??
 }
