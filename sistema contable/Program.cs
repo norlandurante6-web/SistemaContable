@@ -1,7 +1,6 @@
 ﻿//DIOS BENDIGA ESTE PROGRAMA Y A SUS CREADORES
-//NEFFER LA CABRA 
 //Dios ayudame a entender este programa por fis
-
+// seara
 using System.IO;
 using System.Reflection.PortableExecutable;
 using System.Timers;
@@ -17,7 +16,6 @@ string ruta_del_catalogo_de_cuentas = Path.Combine(AppDomain.CurrentDomain.BaseD
 string ruta_de_los_movimientos_contables = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "movimientos de las cuentas.csv");
 //mediante esos dos metodos detectamos la ruta de los dos archivos csv 
 
-//!!!! borra de ser posible
 try
 {
     // se asegura que el codigo pueda leer el docuemento en caso que no se muestra este mensaje y cancela en programa hasta que lo reconozca
