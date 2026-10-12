@@ -1,4 +1,5 @@
-﻿//DIOS BENDIGA ESTE PROGRAMA Y A SUS CREADORES
+﻿//love duilio
+//DIOS BENDIGA ESTE PROGRAMA Y A SUS CREADORES
 //Dios ayudame a entender este programa por fis
 // seara
 using System.IO;
