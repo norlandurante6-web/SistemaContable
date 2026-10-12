@@ -1,4 +1,6 @@
-﻿//Dios ayudame a entender este programa por fis
+﻿//DIOS BENDIGA ESTE PROGRAMA Y A SUS CREADORES
+//NEFFER LA CABRA 
+//Dios ayudame a entender este programa por fis
 
 using System.IO;
 using System.Reflection.PortableExecutable;
