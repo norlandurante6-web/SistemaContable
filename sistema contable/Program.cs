@@ -1,4 +1,4 @@
-﻿//dios ayudame a entender este programa por fis
+﻿//Dios ayudame a entender este programa por fis
 
 using System.IO;
 using System.Reflection.PortableExecutable;
@@ -974,4 +974,6 @@ string pedir_codigo_texto()
         }
         Console.WriteLine("El código no puede estar vacío. Intente de nuevo.");
     }
+    
+    //soy el Angel XD
 }
